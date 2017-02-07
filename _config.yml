@@ -5,3 +5,5 @@ description: IB
 
 show_downloads: false
 baseurl: /electro2017
+
+markdown: kramdown
